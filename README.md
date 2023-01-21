@@ -1,5 +1,5 @@
-**Project Title
-Java Application built using Maven**
+
+**Java Application built using Maven**
 
 Description
 This project is a Java application built using the Maven build tool. It includes all necessary dependencies and configurations for building and running the application.
