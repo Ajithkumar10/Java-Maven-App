@@ -10,25 +10,29 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites
 Java 8 or above
 Maven 3.6 or above
+
+**STEPS:**
+
 Installing
 Clone the repository to your local machine
-Copy code
-git clone https://github.com/<username>/<repository>.git
+
+**Copy code** git clone https://github.com/<username>/<repository>.git
+
 Navigate to the project directory
 Copy code
-cd <repository>
-Build the project using Maven
-Copy code
-mvn clean install
-Run the application
-Copy code
-mvn spring-boot:run
+**cd <repository>**
+
+
+**mvn package**
+Run the application, it will create the jar file
+
+
 Built With
 Maven - Dependency Management
 
 
-Author
-Ajith Kumar
+**Author
+Ajith Kumar**
 
 
 Acknowledgments
